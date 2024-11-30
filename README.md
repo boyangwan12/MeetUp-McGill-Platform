@@ -5,6 +5,18 @@ A SQL-based project connecting McGill students and alumni through shared interes
 
 This project is a SQL-based initiative designed to create a relational database for a platform inspired by [Meetup.com](https://www.meetup.com/). The platform connects McGill University students and alumni through shared interests, enabling group creation, event management, and user engagement tracking. The SQL implementation ensures efficient data management and query capabilities for robust reporting and insights.
 
+## Table of Contents
+
+1. [Background Story](#background-story)  
+2. [Features](#features)  
+3. [Functionalities and Business Rules](#functionalities-and-business-rules)  
+4. [Relational Schema](#relational-schema)  
+5. [Business Insights and Implications](#business-insights-and-implications)  
+6. [Future Work](#future-work)  
+7. [Repository Structure](#repository-structure-for-meetup-mcgill-platform)  
+8. [Acknowledgments](#acknowledgments)  
+
+
 ## Background Story
 
 McGill University, renowned for its global diversity, sought a solution to foster deeper connections among its students and alumni. With representatives from over 150 countries, McGill identified an opportunity to enhance its community's engagement through a digital platform similar to Meetup. The goal was to create a user-friendly system enabling students and alumni to connect over shared hobbies, professional interests, and educational backgrounds, ultimately strengthening McGill’s global network. This project bridges geographical boundaries to foster a sense of belonging, mentorship, and professional growth.
