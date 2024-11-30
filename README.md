@@ -51,6 +51,17 @@ By aligning with McGill University’s mission to connect and engage its diverse
 - Experiment with machine learning models like Random Forests or Gradient Boosting to enhance predictive power.
 - Address data limitations such as inflation adjustments for budget and better categorization of directors/producers.
 
+## Repository Structure for MeetUp-McGill-Platform
+
+- **`Presentation.pdf`**: A presentation summarizing the project, including its objectives, functionalities, ERD, data dictionary, and key queries.
+- **`queries.sql`**: SQL script containing all queries used for analysis and reporting. Includes queries for monitoring engagement, analyzing attendance, and evaluating group performance.
+- **`report.pdf`**: A detailed report summarizing the business scenario, project implementation, query results, and their explanations.
+- **`schema.sql`**: SQL script defining the relational schema and database structure.
+
+### Additional Notes
+- The **report** includes all **query results and explanations** for their business relevance, showcasing how they address user engagement and operational insights for the platform.
+
+
 ## Acknowledgments
 
 This project was completed as part of the INSY 661-075: Data & Distributed Systems for Analytics course during Summer 2024 at McGill University, under the guidance of Professor Animesh Animesh and TA Jared Arvind. This project is in collaboration with Karen Bou Daou, Samarth Bavararaj Annigeri, Rajiha Mehdi and Henry Tang.
