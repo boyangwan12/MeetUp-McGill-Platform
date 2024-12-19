@@ -1,6 +1,20 @@
 # MeetUp-McGill-Platform
 A SQL-based project connecting McGill students and alumni through shared interests.
 
+## Technologies and Skills
+### Technologies Used:
+- 📦 **Database Management**: SQL
+- 📝 **Documentation**: ERD and Data Dictionary for schema explanation
+
+### Skills Demonstrated:
+- 🗄️ **Relational Database Design**: Creating a normalized schema to manage complex relationships efficiently.
+- 🔍 **SQL Query Optimization**: Writing advanced queries for data retrieval, analytics, and reporting.
+- 🧩 **Data Modeling**: Designing and implementing an Entity-Relationship Diagram (ERD) to visualize the database structure.
+- 📈 **Business Insight Generation**: Leveraging query results to provide actionable recommendations for community engagement and event management.
+- 🤝 **Collaboration**: Working in a team environment to develop and document the platform.
+- 🎤 **Communication**: Presenting findings and demonstrating the platform’s value through visual and verbal mediums.
+
+
 ## Overview
 
 This project is a SQL-based initiative designed to create a relational database for a platform inspired by [Meetup.com](https://www.meetup.com/). The platform connects McGill University students and alumni through shared interests, enabling group creation, event management, and user engagement tracking. The SQL implementation ensures efficient data management and query capabilities for robust reporting and insights.
